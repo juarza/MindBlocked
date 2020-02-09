@@ -63,7 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\June\Script\LoadScene.cs" />
+    <Compile Include="Assets\Pruebas\June\Script\LoadScene.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/JUARZ/OneDrive/Documentos/GitHub/MindBlocked/MindBlocked_Game/MindBlocked/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
